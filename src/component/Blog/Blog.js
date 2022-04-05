@@ -14,7 +14,7 @@ const Blog = () => {
                 </div>
                 <div class="col-md-6 py-3">
                     <h2> What is Semantic tag?</h2>
-                    <p class="pe-5 fs-5"> A semantic element <strong>clearly describes its meaning to both the browser and the developer</strong>. Examples of non-semantic elements: <strong>div and span</strong> - Tells nothing about its content. Examples of semantic elements: <strong>form , table , and article</strong> - Clearly defines its content.</p>
+                    <p class="pe-5 fs-5"> A semantic element <strong>clearly describes its meaning to both the browser and the developer</strong>. Examples of non-semantic elements: <strong>div and span</strong> - Tells nothing about its content. Examples of semantic elements: <strong>form , table , and article </strong> - Clearly defines its content.</p>
                 </div>
             </div>
         </div>
