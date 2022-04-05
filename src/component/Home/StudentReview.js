@@ -10,8 +10,8 @@ const StudentReview = ({ review }) => {
       <div className="">
         <img src={img} alt="" className="img-fluid rounded student-image" />
       </div>
-      <div className="text-start my-2">
-        <h3 className="fw-bold">{name}</h3>
+      <div className="text-start my-2 text-center">
+        <h3 className="">{name}</h3>
         <h6>
           Rating:{" "}
           <span className="fw-bold text-danger">
